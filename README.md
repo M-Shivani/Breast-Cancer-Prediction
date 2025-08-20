@@ -10,4 +10,3 @@ Achieved an average accuracy of 92%
 
 ## Technologies Used
 Python, OpenCV, NumPy, Scikit-learn, Pandas, Matplotlib
-heyyyyyy
